@@ -1,0 +1,22 @@
+{
+  "name": "test6",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "lab -r console -a code -m 10000"
+  },
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "code": "^1.5.0"
+  },
+  "devDependencies": {
+    "code": "^1.5.0",
+    "hapi": "^10.1.0",
+    "lab": "^6.1.0"
+  },
+  "description": ""
+}
